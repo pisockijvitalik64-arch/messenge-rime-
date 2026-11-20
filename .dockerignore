@@ -1,0 +1,7 @@
+rime.db
+uploads/
+private/
+__pycache__/
+*.pyc
+server.log
+rime-error.log
